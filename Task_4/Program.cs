@@ -25,9 +25,9 @@ else
 
 if (max > thirdNum)
 {
-    System.Console.WriteLine($"Большее число - {max}");
+    System.Console.WriteLine($"Большее число: {max}");
 }
 else
 {
-    System.Console.WriteLine($"Большее число - {thirdNum}");
+    System.Console.WriteLine($"Большее число: {thirdNum}");
 }
